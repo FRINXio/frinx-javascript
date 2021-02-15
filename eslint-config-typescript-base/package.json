@@ -1,6 +1,6 @@
 {
   "name": "@frinx/eslint-config-typescript-base",
-  "version": "18.2.1-build.1",
+  "version": "18.2.1-build.2",
   "description": "FRINX TS eslint config, following our styleguide",
   "main": "index.js",
   "scripts": {
