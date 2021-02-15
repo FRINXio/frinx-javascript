@@ -1,0 +1,30 @@
+{
+  "name": "@frinx/eslint-config-typescript-base",
+  "version": "18.2.1-build.1",
+  "description": "FRINX TS eslint config, following our styleguide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "FRINX, s.r.o.",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:FRINXio/frinx-javascript.git"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.15.0",
+    "@typescript-eslint/parser": "^4.15.0",
+    "eslint": "^7.20.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "prettier": "^2.2.1"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^18.2.1"
+  }
+}
