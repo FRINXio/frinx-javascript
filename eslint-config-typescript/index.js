@@ -140,6 +140,8 @@ module.exports = {
         tsx: "never",
       },
     ],
+    "no-use-before-define": "off",
+    "@typescript-eslint/no-use-before-define": ["error"],
 
     // the airbnb-rules say that a label has to
     // BOTH have an htmlFor attribute, and have
