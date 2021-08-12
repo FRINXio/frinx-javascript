@@ -1,6 +1,6 @@
 {
   "name": "@frinx/eslint-config-typescript-base",
-  "version": "18.2.1-build.3",
+  "version": "14.2.1-build.4",
   "description": "FRINX TS eslint config, following our styleguide",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,6 @@
     "prettier": "^2.2.1"
   },
   "dependencies": {
-    "eslint-config-airbnb-base": "^18.2.1"
+    "eslint-config-airbnb-base": "^14.2.1"
   }
 }
