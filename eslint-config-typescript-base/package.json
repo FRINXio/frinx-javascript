@@ -1,6 +1,6 @@
 {
   "name": "@frinx/eslint-config-typescript-base",
-  "version": "14.2.1-build.4",
+  "version": "15.0.0-build.1",
   "description": "FRINX TS eslint config, following our styleguide",
   "main": "index.js",
   "scripts": {
@@ -17,11 +17,11 @@
     "url": "git@github.com:FRINXio/frinx-javascript.git"
   },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.15.0",
-    "@typescript-eslint/parser": "^4.15.0",
-    "eslint": "^7.32.0",
+    "@typescript-eslint/eslint-plugin": "^5.14.0",
+    "@typescript-eslint/parser": "^5.14.0",
+    "eslint": "^8.6.0",
     "eslint-config-prettier": "^7.2.0",
-    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-import": "^2.25.3",
     "prettier": "^2.2.1"
   },
   "dependencies": {
