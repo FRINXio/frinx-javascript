@@ -158,6 +158,8 @@ module.exports = {
     // we use typescript, and airbnb does not, so this has to change
     "react/jsx-filename-extension": ["error", { extensions: [".tsx"] }],
     "react/jsx-props-no-spreading": "off",
+    "react/function-component-definition": "off",
+    "react/require-default-props": "off",
     "arrow-body-style": "off",
   },
 };

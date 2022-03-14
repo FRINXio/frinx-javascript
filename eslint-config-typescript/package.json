@@ -1,6 +1,6 @@
 {
   "name": "@frinx/eslint-config-typescript",
-  "version": "18.2.1-build.2",
+  "version": "19.0.4-build.1",
   "description": "FRINX TS eslint config, following our styleguide",
   "main": "index.js",
   "scripts": {
@@ -17,17 +17,17 @@
     "url": "git@github.com:FRINXio/frinx-javascript.git"
   },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.15.0",
-    "@typescript-eslint/parser": "^4.15.0",
-    "eslint": "^7.20.0",
+    "@typescript-eslint/eslint-plugin": "^5.14.0",
+    "@typescript-eslint/parser": "^5.14.0",
+    "eslint": "^8.6.0",
     "eslint-config-prettier": "^7.2.0",
-    "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-jsx-a11y": "^6.4.1",
-    "eslint-plugin-react": "^7.22.0",
-    "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.29.3",
+    "eslint-plugin-react-hooks": "^4.3.0",
     "prettier": "^2.2.1"
   },
   "dependencies": {
-    "eslint-config-airbnb": "^18.2.1"
+    "eslint-config-airbnb": "^19.0.4"
   }
 }
