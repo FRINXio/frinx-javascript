@@ -29,7 +29,7 @@
   - Each PR should contain description telling which files to look at first and defending the reason behind each modification.
   - _Optionally_ provide steps to follow to check the changes in the UI.
 
-  ### For reviewer(s)
+### For reviewer(s)
 
 - Make the process of code review part of your work day.
 
