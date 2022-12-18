@@ -2,15 +2,17 @@
 
 > A code review (also referred to as peer code review) is a process where one or two developers analyze a teammate’s code, identifying bugs, logic errors, and overlooked edge cases.
 
+## Main improvement goals
+
 - **Readability** - Are there any redudant comments/LOCs? Does it need some comments? Are variables/function names descriptive enough?
 - **Security** - Does the code expose system to a cyber attack? Does the code contains relevant/secure/up-to-date libraries?
 - **Test coverage** - Is there a need to test the code / test more cases?
 - **Architecture** - Does the code follow the best practices (encapsulation/modularization)? Does the code follow our guidelines?
 - **Reusability** - Does the code use reusable components, functions and services?
 
-We should also follow the following rules:
+## Specific steps to follow
 
-- Every Pull Request should be reviewed by at two people.
+- Every Pull Request should be reviewed by at least two people.
 
   - It is highly recommended to get at least one review from a more senior member of the team.
 
