@@ -12,6 +12,8 @@
 
 ## Specific steps to follow
 
+### For PR author
+
 - Every Pull Request should be reviewed by at least two people.
 
   - It is highly recommended to get at least one review from a more senior member of the team.
@@ -22,6 +24,18 @@
   - PR opened in the afternoon: reviewed by lunch of the next working day.
   - Author is responsible for this - you should ask a team member if you see your PR has no reviews in a reasonable time (see above).
 
+- Do explain the changes you made.
+
+  - Each PR should contain description telling which files to look at first and defending the reason behind each modification.
+  - _Optionally_ provide steps to follow to check the changes in the UI.
+
+  ### For reviewer(s)
+
+- Make the process of code review part of your work day.
+
+  - Understand that reviewing code has the same priority as writing it.
+  - Make sure you allocate enough time and energy.
+
 - Don't review more than 200-400 lines of code (LOC) at a time.
 
   - Most bugs are found in the first 200 lines.
@@ -31,14 +45,15 @@
 
   - ![](https://i.imgur.com/eyhMRYo.png)
 
-- Do explain the changes you made.
-
-  - Each PR should contain description telling which files to look at first and defending the reason behind each modification.
-
 - Focus on coding standards, not personal preference.
 
   - More often than not, **perfectionism is the enemy** of good code - refrain from being too nitpicky about trivial concerns (such as declaring variables in a certain order).
 
 - Ask open ended questions.
+
   - This can set the stage for **discussion, knowledge sharing, and mentorship**.
   - **Even the most seasoned developers** can learn from a beginner in the field.
+
+- If needed, run a quick smoke check.
+
+  - Check the UI if you think it's imporant (changes fix a very specific bug / implement a new feature).
