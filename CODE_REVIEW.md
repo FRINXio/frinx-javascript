@@ -27,7 +27,7 @@ We should also follow the following rules:
 
 - Don't review for more than 60 minutes at a time.
 
-  - ![](https://i.imgur.com/xijEoGF.gif)
+  - ![](https://i.imgur.com/eyhMRYo.png)
 
 - Do explain the changes you made.
 
